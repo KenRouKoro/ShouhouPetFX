@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cn.korostudio.shouhoupetfx.view.main.MainAppController">
+   <children>
+      <Label layoutX="54.0" layoutY="56.0" prefHeight="50.0" prefWidth="149.0" text="WellCome">
+         <font>
+            <Font size="29.0" />
+         </font>
+      </Label>
+      <Label layoutX="141.0" layoutY="148.0" text="UserName" />
+      <Label layoutX="144.0" layoutY="200.0" text="Password" />
+      <PasswordField layoutX="236.0" layoutY="196.0" prefHeight="23.0" prefWidth="227.0" />
+      <TextField layoutX="236.0" layoutY="144.0" prefHeight="23.0" prefWidth="227.0" />
+      <Button layoutX="463.0" layoutY="338.0" mnemonicParsing="false" text="Login" />
+      <CheckBox layoutX="236.0" layoutY="231.0" mnemonicParsing="false" text="Remember Password" />
+   </children>
+</AnchorPane>

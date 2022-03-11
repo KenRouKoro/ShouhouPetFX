@@ -1,0 +1,45 @@
+#petShowPanel{
+    //-fx-background-color: rgba(255,255,255,0.5);
+}
+#mainRightPanel{
+    -fx-background-color: rgba(255,255,255,0.25);
+}
+#toolPanel{
+    -fx-background-color: rgba(255,255,255,0.25);
+}
+#petImageView{
+
+}
+#rootPanel{
+    -fx-background:transparent;
+}
+#petImageView{
+    -fx-background:transparent;
+}
+#textPanel{
+    -fx-background-color: rgba(103, 103, 103, 0.5);
+}
+#textLabel {
+    -fx-font-weight: bold;
+    -fx-text-fill: rgba(255, 255, 255,0.85);
+}
+
+#cofImageButton {
+    -fx-border-color: transparent;
+    -fx-border-width: 2;
+
+    -fx-background-radius: 0;
+    -fx-background-insets: 0;
+    -fx-background-color: button_background_color;
+}
+
+#cofImageButton:hover{
+    -fx-border-color: write;
+}
+#cofImageButton:focused:hover{
+    -fx-border-color: write;
+}
+#cofImageButton:pressed {
+    -fx-border-color: background_pressed_color;
+    -fx-background-color: background_pressed_color;
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CssDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/cn/korostudio/shouhoupetfx/view/main/Main.css" dialect="CLASSIC" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/jfxtras/styles/jmetro/base.css" dialect="JavaFX" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/jfxtras/styles/jmetro/dark_theme.css" dialect="JavaFX" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/jfxtras/styles/jmetro/light_theme.css" dialect="JavaFX" />
+  </component>
+</project>
